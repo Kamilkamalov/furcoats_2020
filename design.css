@@ -1,0 +1,67 @@
+body {
+    background-image: url(desktop.jpg);
+    background-size: 100%;
+    color: white;
+} 
+.Finskie {
+    font-family: 'Play', sans-serif;
+    text-align: center;
+}
+.main1 {
+    font-family: 'Play', sans-serif;
+    font-size: 140%;
+    font-weight: bolder;
+    color: white;
+    text-decoration-line: underline;
+}
+.marq {
+    font-family: 'Play', sans-serif;
+    font-size: 140%;
+}
+.foo {
+    font-family: 'Play', sans-serif;
+}
+.About-us {
+    font-family: 'Play', sans-serif;
+    font-size: 140%;
+    text-indent: 5%;    
+}
+.About-us-Vacancy {
+    color: yellow;
+    text-decoration-line: underline;
+}
+.About-us-Vacancy:hover {
+    color: white;
+}
+.line {
+    background-color: black;
+    height: 2px;
+}
+.pay-work {
+    font-family: 'Play', sans-serif;
+    font-size: 140%;
+}
+.for {
+    font-family: 'Play', sans-serif;
+    font-size: 140%;
+}
+.Why {
+    font-family: 'Play', sans-serif;
+    font-size: 140%;
+    text-indent: 5%;
+}
+.hola {
+    font-family: 'Play', sans-serif;
+    font-size: 140%;
+    text-indent: 5%;
+}
+.textcards {
+    color: black;
+    font-family: 'Play', sans-serif;
+    font-size: 140%;
+}
+.text-cards {
+    color: black;
+    font-family: 'Play', sans-serif;
+    font-size: 100%;
+}
